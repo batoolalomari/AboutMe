@@ -1,0 +1,147 @@
+
+
+/*main{
+		//background-image: url("../back.jpg");
+        background-color: bisque;
+    }*/
+
+    body{
+        background-color: #fbeeec        ;
+    }
+
+    div{
+       
+       
+        background-color:#CE3175 ;
+     
+        color :#F5D6C6;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 2pc;
+       
+        padding: 3pc;
+        margin: 4pc;
+       
+
+
+    }
+
+    
+
+#h{
+        
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 5pc;
+        background-image: url("../flo.jpg");
+       
+        background-color:#CE3175 ;
+     
+        color:#974a80;
+        padding: 5pc;
+        margin: 2pc;
+        padding-left: 20pc;
+        align-items: center;
+    }
+    main{
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 2pc;
+        
+        
+        
+        margin: 2pc;
+        
+        
+        
+
+    }
+    h3{
+        font-family: 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 3pc;
+        color:pink;
+        /*padding-bottom: 2pc;
+        padding-top: 1pc;*/
+       
+       
+    }
+    h2{
+        
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 4pc;
+        color:purple;
+        padding-bottom: 4pc;
+        padding: 3pc;
+        padding-left: 3pc;
+        
+        
+        
+        
+    }
+    .section{
+        
+        font-family: 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 2pc;
+        background-color: #F5D6C6;
+        color :#C62168;
+        padding: 3pc;
+        margin: 2pc;
+       
+
+    }
+    .lu3,#lu3{
+        list-style:initial;
+        
+       
+    }
+    .lu{
+        padding: 3pc;
+        margin: 2pc;
+        list-style:initial;
+        
+    }
+    .lu2{
+        padding: 3pc;
+        margin: 2pc;
+        list-style:decimal;
+        
+    }
+
+    .section2{
+        
+        font-family: 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 2pc;
+        background-color:#CE5B78;
+        color :#F5D6C6;
+        padding: 2pc;
+        padding-bottom: 2pc;
+        margin: 2pc;
+       
+    }
+
+    .section3{
+       
+        font-family: 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 2pc;
+        background-color: #C62168;
+        color :#F5D6C6;
+        padding: 2pc;
+       
+        margin: 2pc;
+    }
+    .section4{
+       
+        font-family: 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 2pc;
+        background-color: palevioletred;
+        color :lightpink;
+        padding: 3pc;
+       
+        margin: 2pc;
+    }
